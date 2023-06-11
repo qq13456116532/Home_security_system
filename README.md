@@ -75,15 +75,24 @@ node版本要求：10-14
 
 全局执行命令：
 安装cnpm
+
 npm uninstall -g cnpm
+
 npm install cnpm@7.1.0 -g --registry=https://registry.npm.taobao.org
 
+
+
 安装webpack: 
-安装vue-cli脚手架工具:
+
 cnpm install webpack -g 
+
+安装vue-cli脚手架工具:
+
 cnpm install -g vue-cli 
 
-然后修改对应代码之后使用npm build生成的dist重新复制到webapp里面，重新启动就修改好了。
+
+
+然后修改对应代码之后使用 npm build 生成的dist重新复制到webapp里面，重新启动就修改好了。
 
 #  许可证
 
