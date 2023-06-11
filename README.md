@@ -29,25 +29,25 @@ Java8以上，IDEA，MySQL8.0
 
 # 使用
 
-![](.\images\Snipaste_2023-06-11_21-35-36.png)
+![](/images/Snipaste_2023-06-11_21-35-36.png)
 
-![](.\images\Snipaste_2023-06-11_21-35-57.png)
+![](/images/Snipaste_2023-06-11_21-35-57.png)
 
-![Snipaste_2023-06-11_21-36-11](.\images\Snipaste_2023-06-11_21-36-11.png)
+![Snipaste_2023-06-11_21-36-11](/images/Snipaste_2023-06-11_21-36-11.png)
 
-![Snipaste_2023-06-11_21-36-17](.\images\Snipaste_2023-06-11_21-36-17.png)
+![Snipaste_2023-06-11_21-36-17](/images/Snipaste_2023-06-11_21-36-17.png)
 
-![Snipaste_2023-06-11_21-42-59](.\images\Snipaste_2023-06-11_21-42-59.png)
+![Snipaste_2023-06-11_21-42-59](/images/Snipaste_2023-06-11_21-42-59.png)
 
-![Snipaste_2023-06-11_21-43-08](.\images\Snipaste_2023-06-11_21-43-08.png)
+![Snipaste_2023-06-11_21-43-08](/images/Snipaste_2023-06-11_21-43-08.png)
 
-![Snipaste_2023-06-11_21-43-16](.\images\Snipaste_2023-06-11_21-43-16.png)
+![Snipaste_2023-06-11_21-43-16](/images/Snipaste_2023-06-11_21-43-16.png)
 
-![Snipaste_2023-06-11_21-43-26](.\images\Snipaste_2023-06-11_21-43-26.png)
+![Snipaste_2023-06-11_21-43-26](/images/Snipaste_2023-06-11_21-43-26.png)
 
-![Snipaste_2023-06-11_21-43-32](.\images\Snipaste_2023-06-11_21-43-32.png)
+![Snipaste_2023-06-11_21-43-32](/images/Snipaste_2023-06-11_21-43-32.png)
 
-![Snipaste_2023-06-11_21-43-37](.\images\Snipaste_2023-06-11_21-43-37.png)
+![Snipaste_2023-06-11_21-43-37](/images/Snipaste_2023-06-11_21-43-37.png)
 
 
 
@@ -65,7 +65,7 @@ Java8以上，IDEA，MySQL8.0
 
 如果你需要修改后端代码，那么直接修改修改就可以了，如果你需要修改前端，那么你会发现都是压缩代码。
 
-所以你需要先将![image-20230611220603256](.\images\image-20230611220603256.png)
+所以你需要先将![image-20230611220603256](/images/image-20230611220603256.png)
 
 
 
